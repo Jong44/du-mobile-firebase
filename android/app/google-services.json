@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571890176587",
+    "project_id": "dumobile-645ae",
+    "storage_bucket": "dumobile-645ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571890176587:android:ce6ca280e822d0a96ab3ce",
+        "android_client_info": {
+          "package_name": "com.example.du_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr0pp9zAJSbCk1re652uHxJDUNHeKLM7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
